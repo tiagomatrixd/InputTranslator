@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+*.exe
+
+# Logs
+*.log
+log_run.txt
+
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
